@@ -10,7 +10,7 @@ foi e esa sendo utilizado o padrão de projeto refactoring, onde eu refatoro par
 
 <h2> Tela de login </h2>
 
-![Alt text](https://ibb.co/5YnWNM8)
+![Alt text](https://i.ibb.co/xmfSpCj/Screenshot-28.png)
 
 <h2> Tela de Listagem </h2>
 
