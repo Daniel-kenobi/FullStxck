@@ -57,17 +57,17 @@ Primeiro abra o arquivo app.config, o nosso interesse é na configuração <conn
   
 ![Alt text](https://i.ibb.co/kHFx6TB/Screenshot-29.png)
   
-  <b>A imagem diz que:<b>
+  _A imagem diz que:_
   
 <ul>
-  <li>Vermelho: Nome do banco <li>
-  <li>Amarelo: Usuário do banco<li>
-  <li>Verde: Senha do banco <li>
+  <li>Vermelho: Nome do banco </li>
+  <li>Amarelo: Usuário do banco</li>
+  <li>Verde: Senha do banco </li>
 </ul>
 
 
-<b> após isso o seu software está pronto para uso, qualquer duvida abra uma issue no GitHub, qualquer falha e bug, por favor me contatar <b>
+_após isso o seu software está pronto para uso, qualquer duvida abra uma issue no GitHub, qualquer falha e bug, por favor me contatar_
   
   
-_O modulo de geração de boletos ainda está sendo desenvolvido. Projeto protegido por licença - Autor: Daniel Felipe aka: Daniel-Kenobi_
+O modulo de geração de boletos ainda está sendo desenvolvido. Projeto protegido por licença - Autor: Daniel Felipe aka: Daniel-Kenobi
 
