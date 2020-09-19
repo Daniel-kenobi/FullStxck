@@ -1,5 +1,5 @@
 # FullStxck
-  <h2>O sistema gerencial grátis e fácil de usar </h2>
+  <h2>O seu sistema gerencial grátis e fácil de usar </h2>
   
 Os sistemas gerenciais chegaram a um bom tempo para nos ajudar a organizar tarefas que antes eram de um trabalho imenso. O FullStxck veio para revolucionar os sistemas gerenciais livres que possuem hoje, trazendo conosco um sistema completo para cadastro de produtos, cadastro de clientes e geração de relatórios, incluindo geração de boleto e recebimento de pagamento por meio dos boletos. O sistema está na versão v0.1 e irá atualizar em breve, trazendo a geração de boletos e remessas bancárias, automatizando o processso de venda on-line ou pré venda, sendo feito tudo dentro do nosso sistema gerencial
 
@@ -48,7 +48,7 @@ CREATE TABLE `produtos` (
 
 XXXXX - nome do seu banco de dados
 
-<h2> COnfigurações do app.config </h2>
+<h2> Configurações do app.config </h2>
 
 Agora que criamos a base de dados precisamos configurar o nosso software para que ele comece a usa-lo, vamos lá!
 
@@ -57,7 +57,7 @@ Primeiro abra o arquivo app.config, o nosso interesse é na configuração <conn
   
 ![Alt text](https://i.ibb.co/kHFx6TB/Screenshot-29.png)
   
-  _A imagem diz que:_
+  <b>A imagem diz que:</b>
   
 <ul>
   <li>Vermelho: Nome do banco </li>
@@ -66,8 +66,8 @@ Primeiro abra o arquivo app.config, o nosso interesse é na configuração <conn
 </ul>
 
 
-_após isso o seu software está pronto para uso, qualquer duvida abra uma issue no GitHub, qualquer falha e bug, por favor me contatar_
+<b>após isso o seu software está pronto para uso, qualquer duvida abra uma issue no GitHub, qualquer falha e bug, por favor me contatar</b>
   
   
-O modulo de geração de boletos ainda está sendo desenvolvido. Projeto protegido por licença - Autor: Daniel Felipe aka: Daniel-Kenobi
+_O modulo de geração de boletos ainda está sendo desenvolvido. Projeto protegido por licença - Autor: Daniel Felipe aka: Daniel-Kenobi_
 
